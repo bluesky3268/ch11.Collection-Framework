@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx",
+            "request": "launch",
+            "mainClass": "ArrayEx",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx1",
+            "request": "launch",
+            "mainClass": "ArrayListEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx2",
+            "request": "launch",
+            "mainClass": "ArrayListEx2",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListLinkedListTest",
+            "request": "launch",
+            "mainClass": "ArrayListLinkedListTest",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListLinkedListTest2",
+            "request": "launch",
+            "mainClass": "ArrayListLinkedListTest2",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch AsciiPrint",
+            "request": "launch",
+            "mainClass": "AsciiPrint",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bingo",
+            "request": "launch",
+            "mainClass": "Bingo",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparatorEx",
+            "request": "launch",
+            "mainClass": "ComparatorEx",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExpValidCheck",
+            "request": "launch",
+            "mainClass": "ExpValidCheck",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx1",
+            "request": "launch",
+            "mainClass": "HashMapEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx2",
+            "request": "launch",
+            "mainClass": "HashMapEx2",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx3",
+            "request": "launch",
+            "mainClass": "HashMapEx3",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx4",
+            "request": "launch",
+            "mainClass": "HashMapEx4",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx1",
+            "request": "launch",
+            "mainClass": "HashSetEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx3",
+            "request": "launch",
+            "mainClass": "HashSetEx3",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx4",
+            "request": "launch",
+            "mainClass": "HashSetEx4",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx5",
+            "request": "launch",
+            "mainClass": "HashSetEx5",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetLotto",
+            "request": "launch",
+            "mainClass": "HashSetLotto",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorEx1",
+            "request": "launch",
+            "mainClass": "IteratorEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorEx2",
+            "request": "launch",
+            "mainClass": "IteratorEx2",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListIteratorEx1",
+            "request": "launch",
+            "mainClass": "ListIteratorEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriorityQueueEx",
+            "request": "launch",
+            "mainClass": "PriorityQueueEx",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx1",
+            "request": "launch",
+            "mainClass": "PropertiesEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx2",
+            "request": "launch",
+            "mainClass": "PropertiesEx2",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueEx1",
+            "request": "launch",
+            "mainClass": "QueueEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackEx1",
+            "request": "launch",
+            "mainClass": "StackEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackQueueEx",
+            "request": "launch",
+            "mainClass": "StackQueueEx",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeMapEx1",
+            "request": "launch",
+            "mainClass": "TreeMapEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetEx1",
+            "request": "launch",
+            "mainClass": "TreeSetEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetEx2",
+            "request": "launch",
+            "mainClass": "TreeSetEx2",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetLotto",
+            "request": "launch",
+            "mainClass": "TreeSetLotto",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        },
+        {
+            "type": "java",
+            "name": "Launch VectorEx1",
+            "request": "launch",
+            "mainClass": "VectorEx1",
+            "projectName": "ch11.Collection Framework_ad48c7d7"
+        }
+    ]
+}
